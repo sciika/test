@@ -1,0 +1,3 @@
+opencv-python-headless
+img2pdf
+numpy
